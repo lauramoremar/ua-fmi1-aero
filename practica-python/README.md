@@ -1,6 +1,4 @@
-# Fundamentos Matemáticos de la Ingeniería 1 (Ingeniería Aeroespacial)
-
-## Práctica con Python 25-26: Cálculo de varias variables
+# Práctica con Python 25-26: Cálculo de varias variables
 
 El objetivo de la práctica es que aprendáis a utilizar python para representar funciones o hacer cálculos en varias variables.
 
