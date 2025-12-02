@@ -8,9 +8,9 @@ Si no estáis familiarizados con este entorno os recomiendo ver el vídeo tutori
 
 | Vídeo                             | Notebook              |
 | :-------------------------------- | :-------------------: |
-| Introducción a Google Colab| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lauramoremar/ua-fmi1-aero/blob/main/practica-python/25-26/notebooks/00-que-es-colab.ipynb) |
+| [Introducción a Google Colab](https://drive.google.com/file/d/1wLqaivUCHKDoiBYiL6xWvGG_cZqqb-Di/view?usp=sharing)| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lauramoremar/ua-fmi1-aero/blob/main/practica-python/25-26/notebooks/00-que-es-colab.ipynb) |
 
-Está basado en esta introducción a Google Colab (es más completo pero explica cosas que no usaremos): https://www.youtube.com/watch?v=9g61bnipcSs)
+Está basado en [esta](https://www.youtube.com/watch?v=9g61bnipcSs)) introducción a Google Colab (es más completo pero explica cosas que no usaremos):.
 
 La práctica consta de 4 partes: Representación de funciones, límites, continuidad y diferenciabilidad, derivación e integración.
 
