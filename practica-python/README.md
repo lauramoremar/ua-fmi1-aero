@@ -4,13 +4,15 @@
 
 El objetivo de la práctica es que aprendáis a utilizar python para representar funciones o hacer cálculos en varias variables.
 
-Para eso utilizaremos Google Colabs, una herramienta flexible, tipo "notebook", para que podamos analizar y ver paso a paso lo que vamos implementando. Trabajaremos online, por lo que no hace falta instalar nada en vuestros ordenadores.
+Para eso utilizaremos Google Colab, una herramienta flexible, tipo "notebook", para que podamos analizar y ver paso a paso lo que vamos implementando. Trabajaremos online, por lo que no hace falta instalar nada en vuestros ordenadores.
 
 Si no estáis familiarizados con este entorno os recomiendo ver el vídeo tutorial de 5 min que os he preparado:
 
 | Vídeo                             | Notebook              |
 | :-------------------------------- | :-------------------: |
-| Introducción a Google Colabs| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lauramoremar/ua-fmi1-aero/blob/main/practica-python/25-26/notebooks/00-plantilla-prueba.ipynb) |
+| Introducción a Google Colab| [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lauramoremar/ua-fmi1-aero/blob/main/practica-python/25-26/notebooks/00-que-es-colab.ipynb) |
+
+Está basado en esta introducción a Google Colab (es más completo pero explica cosas que no usaremos): https://www.youtube.com/watch?v=9g61bnipcSs)
 
 La práctica consta de 4 partes: Representación de funciones, límites, continuidad y diferenciabilidad, derivación e integración.
 
@@ -196,7 +198,7 @@ En el siguiente vídeo veréis los comandos básicos que permiten calcular deriv
 
 ### **Ejercicio 3**
 
-Utiliza la plantilla del Notebook de Google Colabs para escribir el código que permita resolver los siguientes apartados:
+Utiliza la plantilla del Notebook de Google Colab para escribir el código que permita resolver los siguientes apartados:
 
 
 | Ejercicio                         | Notebook              |
@@ -246,7 +248,7 @@ En el siguiente vídeo se explica cómo calcular integrales triples usando coman
 
 ### **Ejercicio 4**
 
-A continuación, realiza los apartados del ejercicio 4 siguiendo la siguiente plantilla de Google Colabs. recuerda siempre hacer una copia en tu google drive y, una vez hecho, descargarlo en tu ordenador para entregarlo.
+A continuación, realiza los apartados del ejercicio 4 siguiendo la siguiente plantilla de Google Colab. recuerda siempre hacer una copia en tu google drive y, una vez hecho, descargarlo en tu ordenador para entregarlo.
 
 
 | Ejercicio                         | Notebook             |
