@@ -98,7 +98,6 @@ $$
 
 Evita que la representación salga deformada, ejecutando la siguiente lı́nea de código antes del plot wireframe(): nombreEjes3D.set box aspect([1,1,1])
 
----
 
 ## 2. Límites, continuidad y diferenciabilidad
 
@@ -169,12 +168,15 @@ print(f"El límite cuando (x,y)->(0,0) es: {limite}")
 
 Estudiando la gráfica del **Ejercicio 1 b.** y sin realizar ningún cálculo, responde a las siguientes preguntas (justificando las respuestas):
 
+Sea 
+
+$$f(x, y) = 0.5 + \frac{\cos^2\left(\sin\left(|x^2 - y^2|\right)\right)}{(1 + 0.001(x^2 + y^2))^2}$$
+
 1. ¿Cuánto vale $f(0, 0)$?
 2. ¿Qué valor tiene $\lim\limits_{(x,y)\rightarrow(0,0)} f(x, y)$?
-3. Entonces, ¿$f(x, y)$ es continua en el punto $(0, 0)$?
+3. ¿Es $f(x, y)$ es continua en el punto $(0, 0)$?
 
-**Función:**
-$$f(x, y) = 0.5 + \frac{\cos^2\left(\sin\left(|x^2 - y^2|\right)\right)}{(1 + 0.001(x^2 + y^2))^2}$$
+
 
 
 **Notas importantes:**
@@ -200,8 +202,6 @@ Utiliza la plantilla del Notebook de Google Colabs para escribir el código que 
 | Ejercicio                         | Notebook              |
 | :-------------------------------- | :-------------------: |
 | Ejercicio 3 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lauramoremar/ua-fmi1-aero/blob/main/lessons/25-26/ejercicios/ejercicio3.ipynb)  |
-
-
 
 
 #### a) Cálculo de derivadas parciales
